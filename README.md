@@ -1,2 +1,2 @@
 # Gradient_Animation
-Gradient animation background for web[age
+Gradient animation background for webpage
