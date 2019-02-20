@@ -1,7 +1,7 @@
 # Gradient_Animation
 Gradient animation in background for webpage
 
-[Demo](http://devarshranpara.000webhostapp.com/fb/)
+[Demo](https://devarshranpara.github.io/Gradient_Animation/)
 
 ### Technology used
 Pure CSS 
